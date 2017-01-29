@@ -1,4 +1,5 @@
 <?php
- for ($number = 0; $number < 300; $number = $number +3) {
-        echo "<p>$number</p>";}
+for ($number = 1; $number < 301; $number = $number + 2) {
+        echo "<p>$number</p>";
+      }
 ?>
